@@ -43,7 +43,7 @@
 
 
 .round-button_burger {
-    background-image: url(/img/burger.svg);
+    background-image: url(img/burger.svg);
     background-repeat: no-repeat;
 
 }
@@ -55,44 +55,44 @@
 }
 
 .header__logo {
-    background-image: url(/img/Group.svg);
+    background-image: url(img/Group.svg);
     background-repeat: no-repeat;
     width: 96.55px;
     height: 50.81px;
 }
 
 .round-button_telephon {
-    background-image: url(/img/call.svg);
+    background-image: url(img/call.svg);
     background-repeat: no-repeat;
 }
 
 .round-button_chat {
-    background-image: url(/img/chat.svg);
+    background-image: url(img/chat.svg);
     background-repeat: no-repeat;
 }
 
 .round-button_profile {
-    background-image: url(/img/profile.svg);
+    background-image: url(img/profile.svg);
     background-repeat: no-repeat;
 }
 
 .round-button_repair {
-    background-image: url(/img/repair.svg);
+    background-image: url(img/repair.svg);
     background-repeat: no-repeat;
 }
 
 .round-button_checkstatus {
-    background-image: url(/img/checkstatus.svg);
+    background-image: url(img/checkstatus.svg);
     background-repeat: no-repeat;
 }
 
 .round-button_repair-full {
-    background-image: url(/img/repair.svg);
+    background-image: url(img/repair.svg);
     background-repeat: no-repeat;
 }
 
 .round-button_checkstatus-full {
-    background-image: url(/img/checkstatus.svg);
+    background-image: url(img/checkstatus.svg);
     background-repeat: no-repeat;
 }
 
@@ -159,7 +159,7 @@
 }
 
 .main__show-more::before {
-    background-image: url(/img/expand.svg);
+    background-image: url(img/expand.svg);
     content: "";
     width: 24px;
     height: 24px;
